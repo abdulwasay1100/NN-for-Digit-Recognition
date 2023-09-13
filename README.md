@@ -21,3 +21,5 @@ Each training example becomes a single row in our data matrix X.
 This gives us a 1000 x 400 matrix X where every row is a training example of a handwritten digit image. 
 The second part of the training set is a 1000 x 1 dimensional vector y that contains labels for the training set
 y = 0 if the image is of the digit 0, y = 1 if the image is of the digit 1.
+
+This is a subset of the MNIST handwritten digit dataset (http://yann.lecun.com/exdb/mnist/)
