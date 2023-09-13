@@ -1,9 +1,13 @@
+**#Neural Networks for Handwritten Digit Recognition Binary**
+
 I've implemented logistic regression. This was extended to handle non-linear boundaries using polynomial regression. For even more complex scenarios such as image recognition, neural networks are preferred.
 
 **Problem Statement:**
+
 In this assignment, I've used neural network to recognize two handwritten digits, zero and one. This is a binary classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. You will extend this network to recognize all 10 digits (0-9) in a future assignment.
 
 **Dataset:**
+
 The load_data() function shown below loads the data into variables X and y
 
 The data set contains 1000 training examples of handwritten digits, here limited to zero and one.
