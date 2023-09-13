@@ -1,6 +1,3 @@
-# Neural-Networks-for-Handwritten-Digit-Recognition-Binary
-
-#Neural Networks
 I've implemented logistic regression. This was extended to handle non-linear boundaries using polynomial regression. For even more complex scenarios such as image recognition, neural networks are preferred.
 
 **Problem Statement:**
